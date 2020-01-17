@@ -12,6 +12,8 @@ pysocks = "*"
 xlsxwriter = "*"
 bs4 = "*"
 lxml = "*"
+phone = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
